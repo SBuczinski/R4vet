@@ -11,5 +11,5 @@ Ce site se veut donc un moyen d'accéder à des étapes détaillées sur comment
 humain ne peut pas traiter facilement entre visualisation des données et médecine vétérinaire factuelle.
 
 NB: *je ne suis qu'un simple vétérinaire*, pas un statisticien, pas un épidémiologiste donc je tiens d'avance à m'excuser pour mes 
-approximations ou raccourcis pour des fins de compréhension par mon public cible (les gens que je supervise ou avec qui je collabore).
+approximations ou raccourcis pour des fins de compréhension par mon public cible et pour moi même. 
 Pour toute erreur ou bug n'hésitez pas à me contacter. **"Errare humanum est, perseverare diabolicum"**
